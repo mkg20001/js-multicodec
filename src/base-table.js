@@ -87,9 +87,9 @@ exports['stellar-tx'] = Buffer.from('d1', 'hex')
 
 exports['zeronet-zite'] = Buffer.from('61', 'hex')
 exports['zeronet-content-json'] = Buffer.from('62', 'hex')
-exports['zeronet-file'] = Buffer.from('63', 'hex')
-exports['zeronet-optional-file'] = Buffer.from('64', 'hex')
-exports['zeronet-big-file'] = Buffer.from('65', 'hex')
+exports['zeronet-file'] = Buffer.from('64', 'hex')
+exports['zeronet-optional-file'] = Buffer.from('65', 'hex')
+exports['zeronet-big-file'] = Buffer.from('66', 'hex')
 
 exports['torrent-info'] = Buffer.from('7b', 'hex')
 exports['torrent-file'] = Buffer.from('7c', 'hex')
